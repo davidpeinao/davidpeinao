@@ -9,6 +9,10 @@
   <a href="https://www.instagram.com/davidpeinadop/">
     <img src="https://www.hypebot.com/wp-content/uploads/2019/11/instagram.jpg" width = 50px/>
   </a>
+
+  <a href="http://www.davidpeinado.me">
+    <img src="http://davidpeinado.me/images/favicon-32x32.png" width = 50px/>
+  </a>
 </p>
 
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
